@@ -8,9 +8,9 @@ This project recreates the ST-Link V2 programmer reference design in Altium Desi
 The objective of this project is to design a USB-based ST-Link V2 programmer that can be used to program and debug STM32 microcontrollers.
 
 # ⚙️ Key Features & Specifications
-Two-layer PCB design
-Schematic drawing in Altium Designer
-PCB layout and routing
+* Two-layer PCB design
+* Schematic drawing in Altium Designer
+* PCB layout and routing
 
 # 📂 Project Files
 - Production-ready Gerber files
