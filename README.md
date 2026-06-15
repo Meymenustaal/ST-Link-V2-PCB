@@ -13,26 +13,26 @@ Schematic drawing in Altium Designer
 PCB layout and routing
 
 # 📂 Project Files
-Production-ready Gerber files
-BOM (Bill of Materials)
-Project Files
-Schematic (.SchDoc)
-PCB Layout (.PcbDoc)
-Gerber Files
-BOM (.xlsx)
-Project Images
-Schematic diagram
-PCB layout
-3D PCB view
-Design Notes
+- Production-ready Gerber files
+- BOM (Bill of Materials)
+- Project Files
+- Schematic (.SchDoc)
+- PCB Layout (.PcbDoc)
+- Gerber Files
+- BOM (.xlsx)
+- Project Images
+- Schematic diagram
+- PCB layout
+- 3D PCB view
+- Design Notes
 
 This work focuses on understanding the hardware architecture and PCB implementation of the ST-Link programmer.
 
 
 # 🛠️ Tools & Technologies Used
-Altium Designer
-STM32 Documentation
-PCB Design Principles
+* Altium Designer
+* STM32 Documentation
+* PCB Design Principles
 
 
 # 🖼️ Project Images
