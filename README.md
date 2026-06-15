@@ -46,5 +46,5 @@ This work focuses on understanding the hardware architecture and PCB implementat
 <img width="744" height="299" alt="image" src="https://github.com/user-attachments/assets/ce131d56-f0eb-4a0c-9847-90d7e98adb37" />
 
 
-# 👨‍💻 Author Muhammed Eymen Ustaal /Electrical and Electronics Engineering Student
+# 👨‍💻  Muhammed Eymen Ustaal /Electrical and Electronics Engineering Student
 
